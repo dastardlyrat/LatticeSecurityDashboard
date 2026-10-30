@@ -8,15 +8,16 @@ and source diagnostics. Each reading keeps its source and evidence state so
 that unavailable, stale, or failed collection remains visible. The dashboard
 offers observations and review triggers; it does not change Windows settings.
 
-![Lattice Sentinel command deck showing explicitly synthetic demonstration data](LIVE_DASHBOARD_DEMO_PREVIEW.png)
+![Lattice Sentinel illustration with fictional system readings and example review notices](.github/images/dashboard.png)
 
-*Synthetic demonstration preview. These values are not measurements of a
-Windows host.*
+*AI-edited illustration based on the interface. All displayed readings are
+fictional demonstration values, not measurements of a Windows host.*
 
 ## Privacy and repository boundary
 
-This repository contains application source, tests, project artwork, and
-explicitly synthetic demonstration screenshots. Python caches, collected
+This repository contains application source, tests, project artwork, synthetic
+demonstration screenshots, and an AI-edited illustration with fictional values.
+Python caches, collected
 snapshots, local environment files, keys, logs, and common capture/export
 directories are excluded by [.gitignore](.gitignore). Ignore patterns cannot
 identify every possible form of private data.
