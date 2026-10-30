@@ -1,0 +1,38 @@
+# Python caches and local development environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Credentials, keys, and local environment settings
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Collected telemetry and local exports
+/snapshots/
+/captures/
+/exports/
+/data/
+/screenshots/
+/collector*.json
+/snapshot*.json
+/LatticeFast.json
+/LatticeSecurity.json
+*.har
+*.pcap
+*.pcapng
+*.dmp
+
+# Logs, temporary files, and operating-system metadata
+*.log
+/logs/
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
