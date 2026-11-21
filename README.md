@@ -192,3 +192,11 @@ are outside this snapshot.
   read-only boundary unless a separately designed transport replaces it.
 
 No standalone project license file is currently included.
+
+## Project directory and related work
+
+[Browse the dastardlyrat project directory](https://dastardlyrat.github.io/).
+
+- [WindowsFirewallDashboard](https://github.com/dastardlyrat/WindowsFirewallDashboard)
+- [WindowsSecuritySettingsExplorer](https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer)
+- [WindowsPowerPlanExplorer](https://github.com/dastardlyrat/WindowsPowerPlanExplorer)
